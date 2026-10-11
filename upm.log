@@ -1,0 +1,4 @@
+[2026-10-11T04:22:48.069Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.3f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 23072 --ipc-path Unity-Upm-23072 -l 2 --log-file 'C:\\Users\\sreyasravya\\Downloads\\ARVR-Project-main (1)/Logs/upm.log'
+[2026-10-11T04:22:48.145Z][INFO] IPC server started (IPC path=Unity-Upm-23072).
+[2026-10-11T04:22:48.146Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-23072.
+[2026-10-11T04:22:56.207Z][INFO] Shutting down UnityPackageManager.exe: parent process [23072] is no longer running.
